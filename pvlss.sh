@@ -114,9 +114,7 @@ case "$user_input" in
       echo "SETTING UP NEOVIM..." && \
       mkdir -p ~/.config/nvim && \
       cd ~/.config/nvim && \
-      git clone https://github.com/vs-123/nvim-cfg && \
-      cp -r ./nvim-cfg/* . && \
-      rm -rf ./nvim-cfg/ && \
+      git clone https://github.com/vs-123/nvim-cfg . && \
       cd -
       ;;
    *)
