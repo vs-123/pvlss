@@ -2,19 +2,21 @@
 # PVLSS -- VS-123 @ https://github.com/vs-123
 
 PACKAGES="
-   xorg \
+   btop \
+   feh \
+   firefox \
+   flameshot \
+   git \
+   glxinfo \
+   kitty \
    mesa \
    mesa-demos \
-   glxinfo \
-   feh \
-   rofi \
    neovim \
-   git \
    openbox \
-   firefox \
-   zsh \
-   kitty \
-   btop
+   rofi \
+   xclip \
+   xorg \
+   zsh 
 "
 
 echo "#######################"
