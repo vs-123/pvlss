@@ -2,6 +2,7 @@
 # PVLSS -- VS-123 @ https://github.com/vs-123
 
 PACKAGES="
+   bc \
    btop \
    feh \
    firefox \
